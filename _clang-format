@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: false
+BreakBeforeBraces: Allman
+ColumnLimit: 120
+IndentWidth: 8
+Language: Cpp
+Standard: Cpp11
+UseTab: ForIndentation
+BreakConstructorInitializersBeforeComma: true
+AlwaysBreakTemplateDeclarations: true
